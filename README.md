@@ -2,10 +2,10 @@
 
  El programa maneja la base de datos de una tienda de ropa en la que se manejan 10 tipos de marcas ya establecidas.
             
-            Se pueden manejan tres tipos de datos:
+             Se pueden manejan tres tipos de datos:
            
              -Cliente --> (cédula, nombre) (pueden haber máximo 15 clientes)
-             -Vendedor--> (cédula, nombre) (Pueden haber máximo 5 vededores),(A cada vendedor se le paga 400.000 inicialmente y se le suman 6000 por venta)\n" +
+             -Vendedor--> (cédula, nombre) (Pueden haber máximo 5 vededores),(A cada vendedor se le paga 400.000 inicialmente y se le      suman 6000 por venta)\n" 
              -Venta --> (Cliente, Vendedor, Marca, Ganancia) (pueden haber máximo 20 ventas)
             
             Las operaciones del programa son:
@@ -19,5 +19,5 @@
             * Hacer un sorteo al azar entre los clientes que hayan realizado compras. 
             * Determinar cual fue la marca que menos se vendio. ","INFORMATION",JOptionPane.INFORMATION_MESSAGE)
             
-            <img src="https://raw.githubusercontent.com/DavidHuertasF/Java-airline/master/screenshots/1.JPG">
+ <img src="https://raw.githubusercontent.com/DavidHuertasF/Java-airline/master/screenshots/1.JPG">
 <img src="https://raw.githubusercontent.com/DavidHuertasF/Java-ClothingStore/master/screenshots/2.JPG">
