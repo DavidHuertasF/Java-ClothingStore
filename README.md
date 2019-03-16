@@ -17,7 +17,7 @@
             * Darle un bono al cliente que haya tenido más de 5 compras.
             * Borrar de la base de datos a los clientes que no hayan realizado ninguna compra.
             * Hacer un sorteo al azar entre los clientes que hayan realizado compras. 
-            * Determinar cual fue la marca que menos se vendio. ","INFORMATION",JOptionPane.INFORMATION_MESSAGE)
+            * Determinar cual fue la marca que menos se vendio. 
             
  <img src="https://raw.githubusercontent.com/DavidHuertasF/Java-airline/master/screenshots/1.JPG">
 <img src="https://raw.githubusercontent.com/DavidHuertasF/Java-ClothingStore/master/screenshots/2.JPG">
